@@ -1,0 +1,16 @@
+Flask
+Flask-SQLAlchemy
+Flask-CORS
+Flask-Limiter
+Flask-Caching
+flask-restx
+Flask-Migrate
+marshmallow
+python-dotenv
+SQLAlchemy
+Werkzeug
+gunicorn
+pytest
+pytest-flask
+psycopg2-binary
+redis
