@@ -1,6 +1,4 @@
 # This is a Docker Compose file for a Flask application with a PostgreSQL database.
-version: '3.8'
-
 services:
   web:
     build: .
